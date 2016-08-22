@@ -9,7 +9,7 @@ $ python insta_download.py https://www.instagram.com/p/BJaZ10IDQr6/
 Downloaded image will be saved in the Download folder of logged user.
 
 ### Downloading private photos
-If the photo is private and only can be accessed by a follower then you can provide custom header with your cookie.
+If the photo is private and can only be accessed by a follower then you can provide custom header with your cookie.
 Pass your header to the **get_link()** function as an optional argument.Example of header is given below :
 ```python
 header={
