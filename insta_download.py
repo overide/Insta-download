@@ -69,7 +69,7 @@ def main():
 
 	# Custom header to download private images of user,whom user have followed.(optional)
 	# Please pass your header, mine is shown below as example!
-	# Pass header to the "download_link" function as second argument. 
+	# Pass header to the "get_link" function as second argument. 
 
 	# header={
 	# 	'Host':'www.instagram.com',
